@@ -15,7 +15,6 @@ It demonstrates an **end-to-end workflow** from data preprocessing to evaluation
 - [💡 Key Insights](#-key-insights)  
 - [🛡 Recommendations for Fraud Prevention](#-recommendations-for-fraud-prevention)  
 - [📈 Effectiveness Evaluation](#-effectiveness-evaluation)  
-- [▶️ How to Run](#️-how-to-run)  
 - [📦 Requirements](#-requirements)  
 - [✍️ Author](#️-author)  
 
