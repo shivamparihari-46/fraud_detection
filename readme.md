@@ -107,3 +107,8 @@ The goal is to build a **fraud detection model** that identifies suspicious tran
 Install all dependencies via:  
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+
+---
+👤Shivam Parihari
+Thanks for visiting❤️
+
