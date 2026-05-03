@@ -109,6 +109,6 @@ Install all dependencies via:
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 ```
 ---
-👤Shivam Parihari
+👤Shivam Parihari<br>
 Thanks for visiting❤️
 
